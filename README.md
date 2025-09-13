@@ -6,17 +6,16 @@ StoreIt is a **⚡ modern Google Drive–like storage solution 💾** built with
 
 <h1 align="center"> 
 
-<a href="https://prakhar-drive.vercel.app/"><strong> ➥ Store your Belongings 🌆📑
+<a href="https://prakhar-drive.vercel.app/"><strong> ➥ Store Your Belongings 🌆📑
 </strong></a>
 
 </h1>
 
 <br/>
 
-
 <h1  align="center" >
   <a href="https://github.com/Prakhar-002/Store-It" target="_blank">
-    <img src="https://github.com/user-attachments/assets/6c263684-17e4-48dc-b5c5-cac6fa49c783" />
+    <img src="https://github.com/user-attachments/assets/a1b987ce-9088-4c8a-87c7-2a84a1faddbd" />
   </a>
 </h1>
 
