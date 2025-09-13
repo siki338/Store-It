@@ -1,6 +1,6 @@
 # StoreIt ➺  Storage and File Sharing Platform
 
-### StoreIt is a **⚡ modern Google Drive–like storage solution 💾** built with **▲ Next.js, ⚛️ React 19, and ☁️ Appwrite**. It helps you **⬆️ upload, 🗂️ manage, and 🔗 share files 📁** effortlessly with a **🧼 clean and 📱 responsive UI**.
+StoreIt is a **⚡ modern Google Drive–like storage solution 💾** built with **▲ Next.js, ⚛️ React 19, and ☁️ Appwrite**. It helps you **⬆️ upload, 🗂️ manage, and 🔗 share files 📁** effortlessly with a **🧼 clean and 📱 responsive UI**.
 
 <br/> 
 
